@@ -1,0 +1,15 @@
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\bin\Debug\net8.0\animal_oop_application.exe
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\bin\Debug\net8.0\animal_oop_application.deps.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\bin\Debug\net8.0\animal_oop_application.runtimeconfig.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\bin\Debug\net8.0\animal_oop_application.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\bin\Debug\net8.0\animal_oop_application.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.AssemblyInfoInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.AssemblyInfo.cs
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.csproj.CoreCompileInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.sourcelink.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\refint\animal_oop_application.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\animal_oop_application.genruntimeconfig.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\animal_oop_application\animal_oop_application\obj\Debug\net8.0\ref\animal_oop_application.dll
