@@ -1,0 +1,15 @@
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\bin\Debug\net8.0\abstract_classes_and_methods.exe
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\bin\Debug\net8.0\abstract_classes_and_methods.deps.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\bin\Debug\net8.0\abstract_classes_and_methods.runtimeconfig.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\bin\Debug\net8.0\abstract_classes_and_methods.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\bin\Debug\net8.0\abstract_classes_and_methods.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.AssemblyInfoInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.AssemblyInfo.cs
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.csproj.CoreCompileInputs.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.sourcelink.json
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\refint\abstract_classes_and_methods.dll
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.pdb
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\abstract_classes_and_methods.genruntimeconfig.cache
+C:\Users\mccly\Desktop\Sem 2\318\dcit318-assignment2-11296675\abstract_classes_and_methods\abstract_classes_and_methods\obj\Debug\net8.0\ref\abstract_classes_and_methods.dll
